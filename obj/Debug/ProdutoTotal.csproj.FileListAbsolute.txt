@@ -1,0 +1,7 @@
+C:\Users\alunos-cesul\source\repos\ProdutoTotal\ProdutoTotal\bin\Debug\ProdutoTotal.exe.config
+C:\Users\alunos-cesul\source\repos\ProdutoTotal\ProdutoTotal\bin\Debug\ProdutoTotal.exe
+C:\Users\alunos-cesul\source\repos\ProdutoTotal\ProdutoTotal\bin\Debug\ProdutoTotal.pdb
+C:\Users\alunos-cesul\source\repos\ProdutoTotal\ProdutoTotal\obj\Debug\ProdutoTotal.csproj.AssemblyReference.cache
+C:\Users\alunos-cesul\source\repos\ProdutoTotal\ProdutoTotal\obj\Debug\ProdutoTotal.csproj.CoreCompileInputs.cache
+C:\Users\alunos-cesul\source\repos\ProdutoTotal\ProdutoTotal\obj\Debug\ProdutoTotal.exe
+C:\Users\alunos-cesul\source\repos\ProdutoTotal\ProdutoTotal\obj\Debug\ProdutoTotal.pdb
